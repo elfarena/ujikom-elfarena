@@ -1,4 +1,4 @@
-# Galeri Sekolah Nafisa
+# Galeri Sekolah Elfa
 
 Aplikasi galeri foto sekolah yang dibangun dengan Laravel dan API. Aplikasi ini memungkinkan pengelolaan foto-foto kegiatan sekolah dengan berbagai kategori seperti akademik, ekstrakurikuler, acara, dan umum.
 
@@ -26,7 +26,7 @@ Aplikasi galeri foto sekolah yang dibangun dengan Laravel dan API. Aplikasi ini 
 1. **Clone repository**
    ```bash
    git clone <repository-url>
-   cd galeri-sekolah-nafisa
+   cd galeri-sekolah-Elfa
    ```
 
 2. **Install dependencies**
@@ -149,4 +149,4 @@ Silakan buat issue atau pull request untuk perbaikan dan fitur baru.
 
 ---
 
-**Dibuat dengan ❤️ untuk Sekolah Nafisa**
+**Dibuat dengan ❤️ untuk Sekolah Elfa**
